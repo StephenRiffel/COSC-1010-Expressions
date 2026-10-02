@@ -13,10 +13,10 @@ This repository contains programming assignments and projects completed for COSC
 
 ## Assignments
 
-- Program Assignment 1
-- Program Assignment 2
-- Program Assignment 3
-- Program Assignment 4
+- Program Assignment 1 Expressions
+- Program Assignment 2 Objects and Data Types
+- Program Assignment 3 Conditional Execution
+- Program Assignment 4 Loops and Iteration
 
 ## Mini Portfolio I Project
 
